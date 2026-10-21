@@ -1,0 +1,14 @@
+{
+  "docsPath": "docs/",
+  "structure": {
+    "assets": "assets/",
+    "docsTree": [
+      {
+        "path": "dada.mdx",
+        "children": []
+      }
+    ]
+  },
+  "shadowDocs": [],
+  "autoMerge": false
+}
