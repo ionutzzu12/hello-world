@@ -2,4 +2,4 @@
 title: Nocfg Guide
 ---
 
-Guide body.
+Guide body, edited on GitHub.
