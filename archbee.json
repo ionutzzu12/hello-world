@@ -1,0 +1,27 @@
+{
+  "$schema": "https://api.archbee.com/git-config-schema",
+  "name": "ionutzzu12/hello-world",
+  "docsPath": "docs",
+  "structure": {
+    "assets": "assets",
+    "docsTree": [
+      {
+        "categoryName": "Getting Started",
+        "isCategory": true,
+        "children": [
+          {
+            "path": "index.mdx"
+          },
+          {
+            "path": "quickstart.mdx"
+          },
+          {
+            "path": "development.mdx"
+          }
+        ]
+      }
+    ]
+  },
+  "publishSpace": false,
+  "autoMerge": false
+}
