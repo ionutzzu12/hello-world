@@ -1,0 +1,22 @@
+{
+  "docsPath": "docs/",
+  "structure": {
+    "assets": "assets/",
+    "docsTree": [
+      {
+        "categoryName": "Guide.md",
+        "isCategory": false,
+        "path": "guide.mdx",
+        "children": []
+      },
+      {
+        "categoryName": "Intro.md",
+        "isCategory": false,
+        "path": "intro.mdx",
+        "children": []
+      }
+    ]
+  },
+  "shadowDocs": [],
+  "autoMerge": false
+}
